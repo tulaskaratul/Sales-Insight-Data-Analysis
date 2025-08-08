@@ -64,5 +64,7 @@ Steps
 
 📧 Contact
 For questions or suggestions:
-Author: Atul Tulas
+
+Author: Atul Tulaskar
+
 GitHub: tulaskaratul
